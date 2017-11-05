@@ -1,0 +1,14 @@
+header {
+    width: 100%;
+    height: 100vh;
+    
+    background: red url('img/pexels-photo-447329.jpeg') center/cover no-repeat;
+    
+    #przeslona {
+        width: 100%
+        height: 100vh;
+        background-color: #ce4f4f
+        position: absolute;
+        top: 0;
+        left: 0;
+    }
